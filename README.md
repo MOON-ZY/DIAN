@@ -1,1 +1,2 @@
-# DIAN
+# pytorch
+simple tutorial of pytorch
